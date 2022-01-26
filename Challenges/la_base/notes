@@ -1,13 +1,3 @@
 Robert a trouvé un moyen hyper sécurisé de stocker ses mots de passe...
-
-ds les strings :
-
-fscanf
-strcmp
-"127-FEVDC-937"
-key.txt
-Mot de passe root-me: %s
-Mot de passe banque: %s
-Clef invalide !
-Veuillez inserer la clef...
+Trouvez un moyen d'y accéder.
 
