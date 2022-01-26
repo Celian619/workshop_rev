@@ -1,4 +1,4 @@
-Installer le jeu pinball:
-sudo apt install pinball
+Lancez le jeu pinball:
+>pinball
 
-Puis soyez créatifs avec Game Conqueror (lancer en root pour pouvoir modifier la mémoire d'autres processus)
+Puis soyez créatif avec Game Conqueror (lancez-le en root pour pouvoir modifier la mémoire d'autres processus).
